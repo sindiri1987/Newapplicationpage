@@ -1,1 +1,2 @@
 Sample file text file is created
+Added secondline for more information
